@@ -5,7 +5,7 @@ import pandas as pd
 # Page config
 st.set_page_config(page_title="Mechanical Unit Converter", page_icon="🔧", layout="wide")
 
-API_BASE_URL = "http://127.0.0.1:8000"
+API_BASE_URL = "https://mechical-converter.onrender.com"
 
 # Custom CSS
 st.markdown("""
